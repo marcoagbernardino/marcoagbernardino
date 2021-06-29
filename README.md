@@ -34,3 +34,14 @@ I have a graduate degree in software development, a postgraduate specialization 
     <img align="center" height="165" src="https://github-readme-stats.vercel.app/api?username=marcoagbernardino&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"/>
 </a>
 </p>
+
+<br>
+<br>
+<p align="center"> 
+
+ ## Profile visits :detective: <br>
+ <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/marcoagbernardino/count.svg" />
+ </p>
+
+</p>
