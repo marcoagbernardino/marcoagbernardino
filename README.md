@@ -2,7 +2,7 @@
 
 I am a system's analyst and full stack software developer at Tribunal de Justiça do Paraná, Brazil (Paraná Justice Court). Working from home on the evolution of the judicial process system, a large scale, highly integrated, transactional web application (500k users) originally started em 2007 and built on Spring, Hibernate, Struts and Postgres.
 
-I have a graduate degree in software development, a postgraduate specialization degree in *Internet of Things (IoT)* and finishing another specialisation degree in *Applied Artificial Intelligence*.
+I have a graduate degree in software development, a postgraduate specialization degree in *Internet of Things (IoT)* and finishing another specialization degree in *Applied Artificial Intelligence*.
 
 - 🔭 I’m currently working on decomposing a large monolithic web application on microservices architecture.
 - 🌱 I’m currently learning microservices with Quarkus, MERN stack, STOMP over WebSocket.
@@ -19,10 +19,10 @@ I have a graduate degree in software development, a postgraduate specialization 
 -->
 
 ## Expertise
-<img align="left" alt="java" src="https://img.shields.io/badge/java%20-%2320232a.svg?&style=for-the-badge&logo=java&logoColor=%2361DAFB" />
+<img align="left" alt="java" src="https://img.shields.io/badge/java%20-%2320232a.svg?&style=for-the-badge&logo=java&logoColor=white&color=red" />
 <img align="left" alt="spring" src="https://img.shields.io/badge/spring%20-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
 <img align="left" alt="python" src="https://img.shields.io/badge/python%20-%2320232a.svg?&style=for-the-badge&logo=python&logoColor=%2361DAFB" />
-<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white&style=for-the-badge" />
+<img align="left" alt="android" src="https://img.shields.io/badge/Android-3DDC84?&style=for-the-badge&logo=android&logoColor=white" />
 
 <br>
 <br>
