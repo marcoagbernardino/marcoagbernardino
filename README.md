@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a system's analyst and full stack software developer at Tribunal de Justiça do Paraná, Brazil (Paraná Justice Court). Working from home on the evolution of the judicial process system, a large scale, highly integrated, transactional web application (500k users) originally started em 2007 and built on Spring, Hibernate, Struts and Postgres.
+I am a system's analyst and full stack software developer at Tribunal de Justiça do Paraná, Brazil (Paraná Justice Court). Working from home on the evolution of a judicial process system, a large scale, highly integrated, transactional web application (500k users) originally started em 2007 and built on Spring, Hibernate, Struts and Postgres.
 
 I have a graduate degree in software development, a postgraduate specialization degree in *Internet of Things (IoT)* and finishing another specialization degree in *Applied Artificial Intelligence*.
 
